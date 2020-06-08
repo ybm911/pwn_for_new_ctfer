@@ -1,2 +1,1 @@
-# pwn-wiki_html
-pwn_for_new_ctfer
+# pwn_for_new_ctfer
